@@ -1,0 +1,3 @@
+rootProject.name = 'redux_Saga_App'
+
+include ':app'
